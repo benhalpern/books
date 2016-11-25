@@ -37,4 +37,8 @@ I am a programmer/entrepreneur, and this list is for other people who generally 
 - The War of Art
 - The Bill of the Century: The Epic Battle for the Civil Rights Act
 
-
+## TODO
+- links
+- writeups for each book
+- future books on my list
+- books that sucked
