@@ -11,8 +11,7 @@ I am a programmer/entrepreneur, and this list is for other people who generally 
 
 #### First draft. These are not all *strong* recommendations, but none of these suck
 
-Money Ball, The Big Short, Flash Boys <- Read these back-to-back-to-back. This was fun. You could probably mix in any of Michael Lewis’ other books as well.
-
+- Money Ball, The Big Short, Flash Boys <- Read these back-to-back-to-back. This was fun. You could probably mix in any of Michael Lewis’ other books as well.
 - The Victorian Internet
 - Where Wizards Stay Up Late: The Origins of the Internet <- Kind of like a sequal to The Victorian Internet. Fun to read back-to-back.
 - The Seventh Sense
